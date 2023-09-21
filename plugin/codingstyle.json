@@ -1,0 +1,9 @@
+{
+  "patterns": [
+    {
+      "pattern": "\\vint\\s+main",
+      "description": "Check for proper main function declaration",
+      "correctPattern": "int main"
+    }
+  ]
+}
